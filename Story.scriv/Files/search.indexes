@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="3">
+            <Title>Scene</Title>
+        </Document>
+        <Document ID="4">
+            <Title>Jimbo</Title>
+        </Document>
+        <Document ID="5">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+by
+
+&lt;$fullname&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your name
+Your address
+Your phone number
+Your email address</Text>
+            <Notes>The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="6">
+            <Title>Adam</Title>
+            <Text>Adam
+
+		Role in Story:	Main Protagonist
+
+         Characer Class: Aescetisist
+
+		Occupation:	
+
+		Physical Description:	Average height, with an average build.  Blue eyes, light brown hair.  Consistently wears tan cloak.
+
+		Personality:	
+
+		Habits/Mannerisms:	
+
+		Background:	
+
+		Internal Conflicts:	
+
+		External Conflicts:	 
+      	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="7">
+            <Title>Sample Script</Title>
+        </Document>
+        <Document ID="8">
+            <Title>Setting Sketch</Title>
+        </Document>
+        <Document ID="9">
+            <Title>Character Sketch</Title>
+        </Document>
+        <Document ID="10">
+            <Title>Don</Title>
+            <Text>Don
+
+		Role in Story:	Main Protagonist
+
+         Characer Class: Technologist
+
+		Occupation:	
+
+		Physical Description:	Human inside mech-suit.
+
+		Personality:	
+
+		Habits/Mannerisms:	
+
+		Background:	
+
+		Internal Conflicts:	
+
+		External Conflicts:	 
+      	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="11">
+            <Title>Ben</Title>
+            <Text>Ben
+
+		Role in Story:	Main Protagonist
+
+         Characer Class: Philosopher
+
+		Occupation:	
+
+		Physical Description:	Human inside mech-suit.
+
+		Personality:	
+
+		Habits/Mannerisms:	
+
+		Background:	
+
+		Internal Conflicts:	
+
+		External Conflicts:	 
+      	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="12">
+            <Title>Mackinac</Title>
+            <Text>Mackinac
+
+		Role in Story:	Capitol Great Lakes Republic
+
+		Related Characters:	Adam, Don, Ben
+
+		Season:	Multi-Seasonal
+
+		Unique Features:	Cyber-City, High Speed Rail, Teleporting Tubes, Large Interconnected City
+
+		Description:	
+
+		Sights:	
+		Sounds:	
+		Smells:	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="13">
+            <Title>Screenplay Format</Title>
+            <Text>SCREENPLAY FORMAT
+
+About This Template
+When compiled (File &gt; Compile), this project will generate a formatted screenplay. By default it is set to export to Final Draft 8 format, but you can change this to print it or export it to a different format instead.
+
+How To Use This Template
+Edit the Title Page document inside the “Front Matter” folder to ensure it contains the correct information.
+Create new documents inside the “Scenes” folder and use Scrivener’s script mode (Format &gt; Scriptwriting &gt; Script Mode - Screenplay) to write your script. It’s up to you whether you use a separate document for each scene or not.
+Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
+Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your screenplay. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do—you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template &gt; Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way.
+Compile your script for printing or exporting by selecting File &gt; Compile.
+
+Making Changes
+There are various minor changes you can make to the settings to tweak this template so that it better suits your needs, as follows:
+Project and author name: The default screenplay title and author name can be customised by going to Project &gt; Meta-Data Settings… and choosing the “Project Properties” tab.
+Making your own special folders: The “Characters” and “Places” folders are really just regular folders that have been set up in a particular way, and you are free to create other folders that work in a similar manner.
+To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents &gt; Change Icon to choose a different icon.
+To create your own template sheets, simply create a new document inside the “Template Sheets” folder and set it up however you want (whether by adding text, changing the title, setting default meta-data, or whatever). Now this document will be available as the basis of new documents from the New From Template menu. (You can add a custom icon to this if you so wish, too.)
+
+Sample Document
+See the “Sample Script” PDF file in the Research folder for an example of a script that has been created using this template.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="14">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="15">
+            <Title>Themes</Title>
+            <Text>Game Themes
+
+
+
+Theme 1: Revolutionary Spirit
+
+Theme 2: Survivalism
+
+Theme 3: Vigilantism
+
+Theme 4: Self Accountability
+
+
+
+Values:  Human Control over Technology
+	   Technology as secondary to humanity.
+
+
+
+</Text>
+        </Document>
+        <Document ID="16">
+            <Title>Plot Ideas</Title>
+            <Text>Plot Ideas
+
+
+I. Act I
+	A. Establish Utopian vision of all the worlds problems.
+
+	B. Establish threat to the utopian vision of the world.
+
+	C. Adventures starts out of </Text>
+        </Document>
+        <Document ID="17">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="18">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="19">
+            <Title>Scenes</Title>
+        </Document>
+        <Document ID="20">
+            <Title>Utopia</Title>
+            <Text>
+
+
+
+
+Everyone has necessities:
+			Water - Great Lakes
+			Power - Wind/Hydro</Text>
+        </Document>
+        <Document ID="22">
+            <Title>Front Matter</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>
